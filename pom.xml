@@ -134,7 +134,7 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<!-- Servlet -->
+		<!-- Servlets -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>servlet-api</artifactId>
